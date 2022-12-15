@@ -9,6 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
+.DS_Store
+.idea/*
+.gradle/*
+out/
+build/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
